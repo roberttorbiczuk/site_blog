@@ -1,8 +1,3 @@
-
-h1 a {
-    font-family: 'fantasy';
-}
-
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -20,7 +15,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'fantasy', cursive;
 }
 
 .date {
