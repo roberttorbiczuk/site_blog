@@ -125,3 +125,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'public', 'static')
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
 )
+
+LOGIN_REDIRECT_URL = '/'  # when the login page is accessed directly, it will redirect a successful login to the top-level index
